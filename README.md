@@ -1,0 +1,2 @@
+# Analysis-of-alcohol-consumption-in-Russia-source-Federal-Service-for-Alcohol-Market-Regulation-
+This repository contains a data analysis project conducted in Power BI on alcohol consumption trends in Russia. The .pbix file includes interactive visualizations, analysis of consumption by region and beverage type, and data on per capita consumption of beer, vodka, and other alcoholic beverages from 2017 to 2023.
